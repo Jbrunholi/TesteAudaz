@@ -1,0 +1,16 @@
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\bin\Debug\net5.0\TetsteAudaz.exe
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\bin\Debug\net5.0\TetsteAudaz.deps.json
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\bin\Debug\net5.0\TetsteAudaz.runtimeconfig.json
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\bin\Debug\net5.0\TetsteAudaz.runtimeconfig.dev.json
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\bin\Debug\net5.0\TetsteAudaz.dll
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\bin\Debug\net5.0\ref\TetsteAudaz.dll
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\bin\Debug\net5.0\TetsteAudaz.pdb
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\obj\Debug\net5.0\TetsteAudaz.csproj.AssemblyReference.cache
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\obj\Debug\net5.0\TetsteAudaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\obj\Debug\net5.0\TetsteAudaz.AssemblyInfoInputs.cache
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\obj\Debug\net5.0\TetsteAudaz.AssemblyInfo.cs
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\obj\Debug\net5.0\TetsteAudaz.csproj.CoreCompileInputs.cache
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\obj\Debug\net5.0\TetsteAudaz.dll
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\obj\Debug\net5.0\ref\TetsteAudaz.dll
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\obj\Debug\net5.0\TetsteAudaz.pdb
+C:\Users\jonat\TesteAudaz\TetsteAudaz\TetsteAudaz\obj\Debug\net5.0\TetsteAudaz.genruntimeconfig.cache
